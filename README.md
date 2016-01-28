@@ -4,6 +4,10 @@
 
 *System prezentacji multimedialnych reklam.*
 
+## S³ownik
+
+- reklamodawca - osoba która zleca wyemitowanie reklamy
+
 ## Wymagania
 
 - Reklamodawca mo¿e zleciæ wyœwietlanie reklamy w okreœlonym czasie, w okreœlonej lokalizacji
