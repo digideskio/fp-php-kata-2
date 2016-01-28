@@ -1,20 +1,17 @@
-# PHP 7 -  Kata
+# FP - PHP Kata vol 2
 
-## Plan
+## Opis
 
-1) Nowoœci w PHP 7
-2) Zadanie - z PHP 5.6 do PHP 7
-3) Podsumowanie
+*System prezentacji multimedialnych reklam.*
 
-## Nowoœci w PHP 7
+## Wymagania
 
-// Prezentacja
+- Reklamodawca mo¿e zleciæ wyœwietlanie reklamy w okreœlonym czasie, w okreœlonej lokalizacji
+- Reklamodawca nie mo¿e zleciæ dwókrotnie reklamy w tym samym czasie i w tej samej lokalizacji
+- Reklamodawca ma mo¿liwoœæ podgl¹dania swoich reklam aktywnych, zaplanowanych oraz archiwalnych
 
-## Zadanie - z PHP 5.6 do PHP 7
+- Cena za wyœwietlanie reklamy jest naliczana za dzieñ wyœwietlania reklamy
+- Cena za dzieñ wyœwietlania reklamy jest ró¿na w ró¿nych lokalizacjach
+- Cena okreœlona jest w polskich z³otówkach
 
-- Rozwi¹zanie - PHP 5.6
-- Rozwi¹zanie - PHP 7
-
-## Podsumowanie
-
-// ToDo
+- Ka¿da reklama musi zawieraæ plik wideo lub zdjêcie, które wyœwietlone zostanie na telebimie
