@@ -7,15 +7,15 @@
 ## S³ownik
 
 - reklamodawca - osoba która zleca wyemitowanie reklamy
+- lokalizacja - miejsce w którym emitowana jest reklama - kraj, miasto, ulica
 
 ## Wymagania
 
 - Reklamodawca mo¿e zleciæ wyœwietlanie reklamy w okreœlonym czasie, w okreœlonej lokalizacji
-- Reklamodawca nie mo¿e zleciæ dwókrotnie reklamy w tym samym czasie i w tej samej lokalizacji
+- Reklamodawca nie mo¿e zleciæ dwukrotnie reklamy w tym samym czasie i w tej samej lokalizacji
 - Reklamodawca ma mo¿liwoœæ podgl¹dania swoich reklam aktywnych, zaplanowanych oraz archiwalnych
-
 - Cena za wyœwietlanie reklamy jest naliczana za dzieñ wyœwietlania reklamy
 - Cena za dzieñ wyœwietlania reklamy jest ró¿na w ró¿nych lokalizacjach
 - Cena okreœlona jest w polskich z³otówkach
-
 - Ka¿da reklama musi zawieraæ plik wideo lub zdjêcie, które wyœwietlone zostanie na telebimie
+- Lokalizacja jest okreœlona przez nazwê miasta, ulicy oraz wspó³rzêdne GPS
